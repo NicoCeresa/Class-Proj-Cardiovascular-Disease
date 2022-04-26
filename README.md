@@ -1,6 +1,8 @@
 ## P2-Cardiovascular-Disease
 In this project, I investigate the major causes of death in the world: cardiovascular disease!
 ```python
+import otter
+grader = otter.Notebook()
 from datascience import *
 import numpy as np
 
