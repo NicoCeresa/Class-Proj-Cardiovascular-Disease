@@ -1,4 +1,5 @@
-## P2-Cardiovascular-Disease
+## Project 2: Cardiovascular Disease: Causes, Treatment, and Prevention
+
 In this project, I investigate the major causes of death in the world: cardiovascular disease!
 ```python
 import otter
