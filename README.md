@@ -1,4 +1,4 @@
-## Project 2: Cardiovascular Disease: Causes, Treatment, and Prevention
+# Project 2: Cardiovascular Disease: Causes, Treatment, and Prevention
 
 In this project, I investigate the major causes of death in the world: cardiovascular disease!
 ```python
@@ -15,7 +15,7 @@ np.set_printoptions(legacy='1.13')
 'imports complete'
 ```
 
-# Roadmap for this project:
+## Roadmap for this project:
 
 In Part 1, we'll investigate the major causes of death in the world during the past century (from 1900 to 2015).
 
@@ -25,10 +25,11 @@ In Part 3, we'll examine the effect that hormone replacement therapy has on the 
 
 In Part 4, we'll explore the effect that the consumption of saturated fats has on cardiovascular death rates using data from the National Heart-Diet Study
 
-# Methods Used
 
-Hypothesis Testing
+## Methods Used
 
-A/B Testing
+- Hypothesis Testing
 
-Bootstrap
+- A/B Testing
+
+- Bootstrap
