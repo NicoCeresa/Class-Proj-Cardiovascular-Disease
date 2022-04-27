@@ -1,19 +1,6 @@
 # Project 2: Cardiovascular Disease: Causes, Treatment, and Prevention
 
 In this project, I investigate the major causes of death in the world: cardiovascular disease!
-```python
-import otter
-grader = otter.Notebook()
-from datascience import *
-import numpy as np
-
-%matplotlib inline
-import matplotlib.pyplot as plots
-plots.style.use('fivethirtyeight')
-np.set_printoptions(legacy='1.13')
-
-'imports complete'
-```
 
 ## Roadmap for this project:
 
